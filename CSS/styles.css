@@ -1,11 +1,21 @@
-.pic {
-  width: 30%;
+h1 {
+  text-align: center;
+}
+
+img{
+  width: 31%;
   float: left;
 }
 
-.body {
-  margin: 12px;
-  border: solid gray 2px;
-  padding: 4px;
-  background-color: lightgray;
+.column {
+  width: 20%;
+  float: left;
+}
+
+.box{
+  border: 2px solid blue;
+  padding: 12px;
+  margin: 20px;
+  width:100px;
+  height: auto;
 }
