@@ -1,0 +1,11 @@
+.pic {
+  width: 30%;
+  float: left;
+}
+
+.body {
+  margin: 12px;
+  border: solid gray 2px;
+  padding: 4px;
+  background-color: lightgray;
+}
