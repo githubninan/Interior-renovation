@@ -3,19 +3,17 @@ h1 {
 }
 
 img{
-  width: 31%;
+  width: 20%;
   float: left;
+  padding: 1%;
+  margin: 1%;
+
 }
 
 .column {
-  width: 20%;
-  float: left;
-}
-
-.box{
-  border: 2px solid blue;
-  padding: 12px;
-  margin: 20px;
-  width:100px;
-  height: auto;
+  width: 27%;
+  float: right;
+  background-color: lightgray;
+  padding: 1%;
+  margin: 1%
 }
